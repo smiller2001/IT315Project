@@ -1,0 +1,55 @@
+{
+   "Encounters": [
+      {
+         "title": "Out of the Woods",
+         "description": "In a player's dream, they are walking through a dark wood. What do they see?",
+         "relImage": "woods.jpg"
+      },
+      {
+         "title": "Belle of the Balle",
+         "description": "While traveling to their next destination, the party comes across a young woman in a tattered gown, crying on the side of the road.",
+         "relImage": "belle.jpg"
+      },
+      {
+         "title": "Riddle Me This",
+         "description": "While waiting for passage intoatown, apparantly riddled with odd citizens and odder rules, the party will only be allowed access once they produce the answer to a riddle.",
+         "relImage": "guard.jpg"
+      },
+      {
+         "title": "Cheers",
+         "description": "While in a bar, they clock strikes a certain hours, and as if by magic the entire bar around them immediately rouses into cheer and merriment, even though it was nearly silent mere seconds before.",
+         "relImage": "cheers.jpg"
+      },
+      {
+         "title": "Fairy Godmother",
+         "description": "It seems your party has taken a wrong turn and finds themselves in front of a small hut. It would be a shame if the inhabitants' gifts caused some trouble.",
+         "relImage": "cabin.jpg"
+      },
+      {
+         "title": "Upon Nightfall",
+         "description": "As the party settles in for a long rest, a particular member finds theirself stuck within a particularly vivid dream.",
+         "relImage": "nightmare.jpg"
+      },
+      {
+         "title": "Rumor Has It",
+         "description": "The destination of the party has many a rumor surrounding it. How many are true?",
+         "relImage": "rumors.jpg"
+      },
+      {
+         "title": "Meant to Be?",
+         "description": "A stranger approaches a party member, seeming to recognize them. However, the party member has never seen them before.",
+         "relImage": "strangers.jpg."
+      },
+      {
+         "title": "Create a Diversion",
+         "description": "A random accusation lands half the part in jail, something big has to draw the city guard away so they may escape. Or find out why they're in jail in the first place.",
+         "relImage": "jail.jpg"
+      },
+      {
+         "title": "Out of the Blue",
+         "description": "While travelling, the party notices a sudden column of smoke in the distance, much too large to be a simple campfire or a chimney.",
+         "relImage": "smoke.jpg"
+      }
+   ],
+   "Status": "OK"
+}
